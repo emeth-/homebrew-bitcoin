@@ -1,9 +1,9 @@
 require 'formula'
 
 class Vanitygen < Formula
-  gh = 'https://github.com/samr7/vanitygen'
+  gh = 'https://github.com/FuzzyBearBTC/vanitygen'
   repo = gh+'.git'
-  revision = 'cd1a7282431dcf7e522777976aa18728ee5bb7be'
+  revision = 'eccf708acf35273aec1c3288f3c40f65a34c375b'
   homepage gh
   head repo
   #head as of 201303262300
